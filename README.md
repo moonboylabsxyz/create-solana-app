@@ -5,6 +5,9 @@ A CLI tool to bootstrap Solana projects with customizable package selection.
 
 - Node.js >= 20
 - Yarn >= 1.22 (If not installed, run `npm install -g yarn`)
+- npm >= 9.6.1 (If not installed, run `sudo apt-get install npm`)
+- Typescript >= 5.5.3 (If not installed, run `npm install -g typescript`)
+- ts-node >= 10.9.2 (If not installed, run `npm install -g ts-node`)
 
 ## Installation
 
@@ -32,6 +35,9 @@ A CLI tool to bootstrap Solana projects with customizable package selection.
    ```bash
    sudo npm install -g .
    ```
+   or
+   ```bash
+   npm install -g .
 
 ## Usage
 
